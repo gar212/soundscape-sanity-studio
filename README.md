@@ -1,9 +1,13 @@
-# Sanity Clean Content Studio
+# Soundscape Content Studio
 
-Congratulations, you have now installed the Sanity Content Studio, an open-source real-time content editing environment connected to the Sanity backend.
+Sanity Studio for managing Soundscape content (artists, events, venues).
 
-Now you can do the following things:
+- [Sanity docs – Getting started](https://www.sanity.io/docs/introduction/getting-started)
+- [Sanity community](https://www.sanity.io/community/join)
+- [Extending the studio](https://www.sanity.io/docs/content-studio/extending)
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the Sanity community](https://www.sanity.io/community/join?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+## Commands
+
+- `npm run dev` – start dev server
+- `npm run build` – build for production
+- `npm run deploy` – deploy studio to Sanity’s hosting

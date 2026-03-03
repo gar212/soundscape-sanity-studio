@@ -1,5 +1,5 @@
 {
-  "name": "sanity-ecommerce",
+  "name": "soundscape-sanity-studio",
   "private": true,
   "version": "1.0.0",
   "main": "package.json",
@@ -8,13 +8,13 @@
     "dev": "sanity dev",
     "start": "sanity start",
     "build": "sanity build",
-    "deploy": "sanity deploy",
-    "deploy-graphql": "sanity graphql deploy"
+    "deploy": "sanity deploy"
   },
   "keywords": [
     "sanity"
   ],
   "dependencies": {
+    "@sanity/google-maps-input": "^4.2.1",
     "@sanity/vision": "^5.12.0",
     "react": "^19.1",
     "react-dom": "^19.1",
